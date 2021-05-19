@@ -12,7 +12,7 @@
 function getOdds(numbers) {
 
   return numbers.filter(function(num) {
-  return (num%2 !== 0)
+  return (num%2 !== 0);
   })
   // Your code here
 }
