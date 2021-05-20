@@ -10,7 +10,7 @@
   },
   "scripts": {
     "test": "jest",
-    "test-ci": 
+    "test-ci": "jest"
   },
   "dependencies": {
     "@babel/preset-env": "^7.12.11",
